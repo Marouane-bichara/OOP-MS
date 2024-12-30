@@ -6,4 +6,6 @@
 
 
     $admin = new Administrateur("Said", "SaidAbaila@gmail.com" , "admin");
+
+    $articl = new Articl("livecoding" , "test");
 ?>
